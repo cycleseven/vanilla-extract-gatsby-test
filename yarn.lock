@@ -2072,10 +2072,10 @@
     csstype "^3.0.7"
     dedent "^0.7.0"
 
-"@vanilla-extract/sprinkles@0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@vanilla-extract/sprinkles/-/sprinkles-0.1.1.tgz#6119556de79ec5c1ee9fbd984e2e211f477a59f7"
-  integrity sha512-E9LN0gTCLaxtvqTBMYNjdzBtB2Mtyzzxdn7jD/R8CXg4Wc/RwLU2OTvKSN+FL3/faXr+aLQBhOiMO4e2exHOsQ==
+"@vanilla-extract/sprinkles@0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@vanilla-extract/sprinkles/-/sprinkles-0.2.2.tgz#214130dae6497293efb54a31d3a5d55d92a95b72"
+  integrity sha512-ODUiEZE2lcYQwJh+04jlb7HHU7Vvt0jhh/x20AmuYu6UEqQe/cdQOyY7t/sXHWp1MBqZ76Sf1Es1Qeutqzzt5A==
 
 "@vanilla-extract/webpack-plugin@^0.1.0":
   version "0.1.0"
